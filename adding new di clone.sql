@@ -1,0 +1,2 @@
+select *
+from ada_orang_yang_lagi_ngeprint
