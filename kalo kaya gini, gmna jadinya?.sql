@@ -1,1 +1,0 @@
-kalo kaya gini, gmna jadinya?
